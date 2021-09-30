@@ -8,7 +8,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}\\note\\2.data structure\\stack\\1.js"
+            "program": "${workspaceFolder}\\note\\2.data structure\\queue\\index.js"
         },
         {
             "type": "node-terminal",
